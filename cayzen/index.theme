@@ -6,4 +6,5 @@ Encoding=UTF-8
 
 [X-GNOME-Metatheme]
 GtkTheme=Cayzen
+IconTheme=Delta Icon
 ButtonLayout=close,minimize,maximize:menu
