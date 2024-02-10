@@ -3,3 +3,5 @@
 <h2> About </h2>
 
 This GTK theme is based on the [Catpuccin GTK](https://github.com/vinceliuice/Colloid-gtk-theme)
+
+<img src="https://i.postimg.cc/gJhtCQ14/Captura-desde-2024-02-09-19-57-39.png"/>
