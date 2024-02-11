@@ -12,4 +12,5 @@ This GTK theme is based on the [Catpuccin GTK](https://github.com/catppuccin/gtk
 
 <h3> Recommendations </h3>
 
-Install the extension [hide top bar](https://extensions.gnome.org/extension/545/hide-top-bar/)
+Install the extension [hide top bar](https://extensions.gnome.org/extension/545/hide-top-bar/).
+This is to prevent any application from looking ugly when maximizing it.
