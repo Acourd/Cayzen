@@ -391,10 +391,12 @@ StWidget.focused .app-well-app-running-dot {
   color: #FFFFFF;
   background-color: rgba(255, 255, 255, 0.2);
   box-shadow: none;
+  background-gradient-direction: none;
 }
 
 #calendarArea {
   padding: 6px 0;
+  background-gradient-direction: none;
 }
 
 .datemenu-calendar-column {
@@ -426,6 +428,7 @@ StWidget.focused .app-well-app-running-dot {
 .events-section-title {
   color: rgba(255, 255, 255, 0.7);
   font-weight: bold;
+  background-gradient-direction: none;
 }
 
 .datemenu-today-button,
@@ -501,6 +504,7 @@ StWidget.focused .app-well-app-running-dot {
   border-radius: 9999px;
   background-color: transparent;
   color: #FFFFFF;
+  background-gradient-direction: none;
 }
 
 .calendar .pager-button:hover, .calendar .pager-button:focus {
@@ -562,6 +566,7 @@ StWidget.focused .app-well-app-running-dot {
   color: rgba(255, 255, 255, 0.7) !important;
   background-color: rgba(255, 255, 255, 0.06);
   border: none;
+  background-gradient-direction: none;
 }
 
 .calendar .calendar-today:hover, .calendar .calendar-today:focus {
@@ -3330,6 +3335,8 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 .quick-toggle:checked {
   background-color: #83a598 !important;
+  background-gradient-direction: none;
+  
   color: rgba(0, 0, 0, 0.87);
 }
 
@@ -3422,6 +3429,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 .quick-menu-toggle .quick-toggle-arrow:checked {
   background-color: #83a598 !important;
+  background-gradient-direction: none;
   color: rgba(0, 0, 0, 0.87);
 }
 
@@ -3483,6 +3491,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   border-radius: 18px !important;
   padding: 12px;
   margin: 12px 18px 0;
+  background-gradient-direction: none;
 }
 
 .quick-toggle-menu .popup-menu-item {
@@ -3519,6 +3528,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 .quick-toggle-menu .header .icon.active {
   background-color: #83a598 !important;
   color: rgba(0, 0, 0, 0.87);
+  background-gradient-direction: none;
 }
 
 .quick-settings-system-item > StBoxLayout {
@@ -3656,6 +3666,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 .screenshot-ui-capture-button:cast .screenshot-ui-capture-button-circle {
   background-color: #83a598;
+  background-gradient-direction: none;
 }
 
 .screenshot-ui-capture-button:cast:hover .screenshot-ui-capture-button-circle, .screenshot-ui-capture-button:cast:focus .screenshot-ui-capture-button-circle {
@@ -3735,6 +3746,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   box-shadow: 0 1px 3px 2px rgba(0, 0, 0, 0.2);
   width: 24px;
   height: 24px;
+  background-gradient-direction: none;
 }
 
 .screenshot-ui-window-selector {
@@ -3770,11 +3782,13 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 .screenshot-ui-window-selector-window:checked .screenshot-ui-window-selector-window-border {
   border-color: #83a598;
   background-color: rgba(243, 139, 168, 0.2);
+  background-gradient-direction: none;
 }
 
 .screenshot-ui-window-selector-window:checked .screenshot-ui-window-selector-check {
   color: rgba(0, 0, 0, 0.87);
   background-color: #83a598;
+  background-gradient-direction: none;
 }
 
 .screenshot-ui-screen-selector {
@@ -3867,6 +3881,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   border: 3px solid #83a598;
   border-radius: 3px;
   padding: 0px;
+  background-gradient-direction: none;
 }
 
 .bottom #dashtodockDashScrollview,
@@ -3898,6 +3913,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   padding: 0.25em 0.6em;
   font-weight: bold;
   text-align: center;
+  background-gradient-direction: none;
 }
 
 #dashtodockContainer.straight-corner #dash, #dashtodockContainer.shrink.straight-corner #dash {
